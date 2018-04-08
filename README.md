@@ -24,7 +24,11 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration  
+Correct username, the alert is bold
+Incorrect username, the alert isn't bold
+![usernameenumeration](https://user-images.githubusercontent.com/15334096/38468684-a4fbf618-3b17-11e8-8b07-280d74c2df8c.gif)
+
 
 Vulnerability #2: __________________
 
