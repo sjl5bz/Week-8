@@ -31,7 +31,10 @@ Incorrect username, the alert isn't bold
 ![usernameenumeration](https://user-images.githubusercontent.com/15334096/38468684-a4fbf618-3b17-11e8-8b07-280d74c2df8c.gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Stored XSS  
+Submit feedback with alert in name field. The input is not sanitized.
+![xss](https://user-images.githubusercontent.com/15334096/38468886-4d4f0114-3b1a-11e8-8378-d6b0f11a4761.gif)
+
 
 
 ## Red
