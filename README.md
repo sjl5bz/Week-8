@@ -39,7 +39,10 @@ Submit feedback with alert in name field. The input is not sanitized.
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference  
+Changing the id number is allowed which granted me access to a user that wasn't supposed to be public yet.
+![insecure direct object reference](https://user-images.githubusercontent.com/15334096/38468930-e94adc00-3b1a-11e8-86d2-5b2d0ba00063.gif)
+
 
 Vulnerability #2: __________________
 
