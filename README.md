@@ -16,7 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: Session Hijacking
+Vulnerability #1: Session Hijacking  
+Using two different browsers to hijack another person's session
 ![sessionhijacking](https://user-images.githubusercontent.com/15334096/38468589-8bc0654a-3b16-11e8-8716-9ff4d41a1928.gif)
 
 Vulnerability #2: __________________
