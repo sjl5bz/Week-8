@@ -20,7 +20,10 @@ Vulnerability #1: Session Hijacking
 Using two different browsers to hijack another person's session
 ![sessionhijacking](https://user-images.githubusercontent.com/15334096/38468589-8bc0654a-3b16-11e8-8716-9ff4d41a1928.gif)
 
-Vulnerability #2: 
+Vulnerability #2: SQL Injection
+When entering a SQL command for the blue website it directs to a person. When entering the same command to green or red website, it redirects to the 'find a salesperon' page. 
+![sql](https://user-images.githubusercontent.com/15334096/38469550-8eb83512-3b24-11e8-9fad-8426825a99ef.gif)
+
 
 
 ## Green
