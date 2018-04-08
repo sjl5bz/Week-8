@@ -44,7 +44,8 @@ Changing the id number is allowed which granted me access to a user that wasn't 
 ![insecure direct object reference](https://user-images.githubusercontent.com/15334096/38468930-e94adc00-3b1a-11e8-86d2-5b2d0ba00063.gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF Token
+![csrf](https://user-images.githubusercontent.com/15334096/38469459-28cfa5e2-3b23-11e8-9fe6-ee43585cc690.gif)
 
 
 ## Notes
