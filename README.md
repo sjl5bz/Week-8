@@ -20,7 +20,8 @@ Vulnerability #1: Session Hijacking
 Using two different browsers to hijack another person's session
 ![sessionhijacking](https://user-images.githubusercontent.com/15334096/38468589-8bc0654a-3b16-11e8-8716-9ff4d41a1928.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF Token
+![csrf](https://user-images.githubusercontent.com/15334096/38469459-28cfa5e2-3b23-11e8-9fe6-ee43585cc690.gif)
 
 
 ## Green
@@ -44,8 +45,8 @@ Changing the id number is allowed which granted me access to a user that wasn't 
 ![insecure direct object reference](https://user-images.githubusercontent.com/15334096/38468930-e94adc00-3b1a-11e8-86d2-5b2d0ba00063.gif)
 
 
-Vulnerability #2: CSRF Token
-![csrf](https://user-images.githubusercontent.com/15334096/38469459-28cfa5e2-3b23-11e8-9fe6-ee43585cc690.gif)
+Vulnerability #2: ____
+
 
 
 ## Notes
